@@ -1,3 +1,3 @@
 # ISAC.V2
-this is a test of the GIT hub READ ME for VScode.
-welcome I'm Mike.
+Welcome this is my learning space for Python using VScode.
+first project will be a basic Hello world.
